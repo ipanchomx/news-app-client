@@ -1,0 +1,31 @@
+.grid > div {
+    border: solid black 2px;
+    height: 375px;
+}
+
+img {
+    height: 85%;
+    width: 100%;
+}
+
+.noticias-container {
+    width: 100%;
+}
+
+.container {
+    margin: auto;
+    border-radius: 2px;
+    border: solid black;
+}
+
+.config {
+    padding: 0 0 0 20px;
+}
+
+.grid {
+    margin: 0 7px;
+    align-items: center;
+  
+  
+    justify-content: center;
+}
